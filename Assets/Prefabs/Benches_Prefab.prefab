@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 33773477668825968}
   - component: {fileID: 23242718551313834}
   m_Layer: 0
-  m_Name: Benches
+  m_Name: Benches_Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

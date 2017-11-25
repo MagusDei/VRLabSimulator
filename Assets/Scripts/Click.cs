@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -15,17 +15,14 @@ public class Click : MonoBehaviour {
         clickText.text = "";
         overText.text = "";
         but1.gameObject.SetActive(false);
+
     }
 
     void OnMouseDown()
     {
+        but1.gameObject.SetActive(true);
         clickText.text = "Don't do it!";
         ragemeter.value = ragemeter.value + 1;
-        
-    }
-    void OnMouseUpAsButton()
-    {
-        clickText.text = "";
         gameOver();
     }
 

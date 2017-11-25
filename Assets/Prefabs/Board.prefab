@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33243800752773760}
   - component: {fileID: 23806396735774480}
   m_Layer: 0
-  m_Name: New Prefab 1
+  m_Name: Board
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33166959402645664}
   - component: {fileID: 23958268976992122}
   m_Layer: 0
-  m_Name: New Prefab 7
+  m_Name: Freezer_open
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

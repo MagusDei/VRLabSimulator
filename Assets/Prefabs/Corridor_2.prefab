@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33154246302302158}
   - component: {fileID: 23688951378526992}
   m_Layer: 0
-  m_Name: New Prefab 4
+  m_Name: Corridor_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

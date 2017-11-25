@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33014926321784910}
   - component: {fileID: 23810343621004906}
   m_Layer: 0
-  m_Name: New Prefab 9
+  m_Name: Fridge_open
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

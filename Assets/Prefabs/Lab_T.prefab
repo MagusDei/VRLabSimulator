@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33735756733291912}
   - component: {fileID: 23915879422792752}
   m_Layer: 0
-  m_Name: New Prefab 11
+  m_Name: Lab_T
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

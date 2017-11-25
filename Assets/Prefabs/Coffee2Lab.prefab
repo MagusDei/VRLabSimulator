@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33923384793690316}
   - component: {fileID: 23335509266342976}
   m_Layer: 0
-  m_Name: New Prefab 2
+  m_Name: Coffee2Lab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

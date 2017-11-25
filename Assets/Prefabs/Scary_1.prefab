@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33982564258427434}
   - component: {fileID: 23909838924600538}
   m_Layer: 0
-  m_Name: New Prefab 13
+  m_Name: Scary_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

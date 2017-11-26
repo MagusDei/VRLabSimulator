@@ -1074,14 +1074,14 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1018383745850930}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300000, guid: e365b4b0a80f40d42ad44635e73c60e5, type: 3}
 --- !u!33 &33165972717548452
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1608674142590462}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300218, guid: 8635ad619200dd0488f99cbb185e8363, type: 3}
 --- !u!33 &33236564895932170
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -1095,14 +1095,14 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1646155707884574}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300008, guid: 7e8ed6b48c4054af7b42b6fef0b9883f, type: 3}
 --- !u!33 &33387477434230118
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1785835985484272}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300000, guid: 770c5dadeaf83394ab9b9604cb2a6298, type: 3}
 --- !u!33 &33442369878761408
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -1116,7 +1116,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1944718735054730}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 4300000, guid: a913811941469a64abeb138272cb6d79, type: 3}
 --- !u!54 &54235929236576472
 Rigidbody:
   m_ObjectHideFlags: 1
@@ -1381,7 +1381,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4efe99aa39875c42b27df8c0d9bfdc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highlightEffect:
+    _classRef: ViveGrip_TintEffect, Assembly-CSharp
   destroyed: {fileID: 1922411263541262, guid: 633fdd7391758ea4aa2d70310072bae0, type: 2}
+  anchor:
+    enabled: 0
+    localPosition: {x: 0, y: 0, z: 0}
+  rotation:
+    mode: 1
+    localOrientation: {x: 0, y: 0, z: 0}
 --- !u!114 &114242278129738764
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1445,7 +1453,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4efe99aa39875c42b27df8c0d9bfdc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highlightEffect:
+    _classRef: ViveGrip_TintEffect, Assembly-CSharp
   destroyed: {fileID: 1922411263541262, guid: 633fdd7391758ea4aa2d70310072bae0, type: 2}
+  anchor:
+    enabled: 0
+    localPosition: {x: 0, y: 0, z: 0}
+  rotation:
+    mode: 1
+    localOrientation: {x: 0, y: 0, z: 0}
 --- !u!114 &114443343849297972
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1496,7 +1512,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4efe99aa39875c42b27df8c0d9bfdc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highlightEffect:
+    _classRef: ViveGrip_TintEffect, Assembly-CSharp
   destroyed: {fileID: 100000, guid: 2d434559430d5e54183217ebf67f2bba, type: 2}
+  anchor:
+    enabled: 0
+    localPosition: {x: 0, y: 0, z: 0}
+  rotation:
+    mode: 1
+    localOrientation: {x: 0, y: 0, z: 0}
 --- !u!114 &114580638541857290
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1534,7 +1558,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4efe99aa39875c42b27df8c0d9bfdc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highlightEffect:
+    _classRef: ViveGrip_TintEffect, Assembly-CSharp
   destroyed: {fileID: 100000, guid: 1168e432e0c205345b90c4ec2f307c97, type: 2}
+  anchor:
+    enabled: 0
+    localPosition: {x: 0, y: 0, z: 0}
+  rotation:
+    mode: 1
+    localOrientation: {x: 0, y: 0, z: 0}
 --- !u!114 &114678053440539160
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1598,7 +1630,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4efe99aa39875c42b27df8c0d9bfdc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  highlightEffect:
+    _classRef: ViveGrip_TintEffect, Assembly-CSharp
   destroyed: {fileID: 100000, guid: 6e616e7bf46c26748a153fac2d7b1293, type: 2}
+  anchor:
+    enabled: 0
+    localPosition: {x: 0, y: 0, z: 0}
+  rotation:
+    mode: 1
+    localOrientation: {x: 0, y: 0, z: 0}
 --- !u!114 &114905553039103654
 MonoBehaviour:
   m_ObjectHideFlags: 1
